@@ -14,7 +14,7 @@ Get ready for the grand ringmaster – **Scriptarina.sh**! This script is the st
 
 1. **Set Up the Circus Tent:**
    ```bash
-   git clone https://github.com/yourusername/shell-be-scripter.git
+   git clone https://github.com/jofralso/shell-be-scripter.git
    cd shell-be-scripter
    ```
 
